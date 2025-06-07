@@ -7,7 +7,7 @@ window.onload = function () {
   document.getElementById("btn4").textContent = "Tenho uma pergunta pra te fazer..."
   // Texto do popup
   document.getElementById("mensagemPopup").textContent = 
-    "Você é uma pessoa incrível, e este site é só uma pequena forma de te mostrar o quanto você é especial, e eu quero muito te conhecer melhor !";
+    "Você é uma pessoa incrível, e este site é só uma pequena forma de te mostrar o quanto você é especial, e eu queria muito te conhecer melhor !";
 
   // Funções dos botões
   document.getElementById("btn1").onclick = mostrarPopup;
